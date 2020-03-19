@@ -1,5 +1,10 @@
 # hello-world
-hello👌
+Hello
 
-m Maryam by name🥰 a web developer (front end)
+Name-Maryam Oluwatosin
+Email-maryamadepoju12@gmail.com
+Slack username-marade 
+Track-frontend
+Coures-html,cds and JavaScript
+
 #💕mylyf
